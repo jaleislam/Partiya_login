@@ -90,6 +90,8 @@ Fiqurlar unicode simvol yox, öz çəkdiyimiz kiçik SVG ikonlardır
 tünd fon + açıq ikon — beləliklə fon rənginin nə olduğundan asılı olmayaraq
 həmişə aydın oxunur.
 
+## DEMO LINK: https://partiya-login.vercel.app/
+
 ## Asılılıqlar
 
 - `react`, `react-dom`
